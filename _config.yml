@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fei Luo"
-description              : "Fei Luo's personal academic page"
+description              : ""
 repository               : "NeoFii/neofii.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Fei Luo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Undergraduate,"
+  bio              : "Undergraduate"
   location         : "Hunan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "732779870@qq.com"
+  email            : "2023400908@stu.jsu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/NeoFii # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
