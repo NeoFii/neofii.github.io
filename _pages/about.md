@@ -37,7 +37,7 @@ My research interest includes:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2016</div><img src='images/iclr2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[FedMC: Federated Manifold Calibration](https://openreview.net/pdf?id=rxwwncarWj)**
