@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Fei Luo(罗飞), I'm a 3th-year undergraduate student at School of Computer Science andEngineering, Jishou University, supervised by Prof. Lei Ding. Meanwhile, I'm interning in Gaoling School of Artificial Intelligence, Renmin University of China, supervised by [Yanbiao Ma](https://scholar.google.com/citations?hl=zh-CN&user=j05wwXcAAAAJ&view_op=list_works&sortby=pubdate).
+My name is Fei Luo(罗飞), I'm a 3th-year undergraduate student at School of Computer Science and Engineering, Jishou University, supervised by Prof. Lei Ding. Meanwhile, I'm interning in Gaoling School of Artificial Intelligence, Renmin University of China, supervised by [Yanbiao Ma](https://scholar.google.com/citations?user=j05wwXcAAAAJ).
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research interest includes:
+
+1) Efficient reasoning of large language models
+2) Explainable AI
+
+<!-- neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 <!-- # 🔥 News
@@ -42,9 +47,10 @@ My name is Fei Luo(罗飞), I'm a 3th-year undergraduate student at School of Co
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.08* The Third Prize of the 14th China Software Cup College Students' Software Design Competition Nationwide.
+- *2025.06* The third prize of the 16th China University Students Service Outsourcing Innovation and Entrepreneurship Competition in the Central Region.
+- *2024.10* College First-Class Scholarship.
 
 # 📖 Educations
 - *2023.09 - 2027.06 (now)*, School of Computer Science and Engineering, Jishou University.
