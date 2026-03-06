@@ -45,7 +45,7 @@ My research interest includes:
 Yanbiao Ma, Wei Dai, Gaoyang Jiang, wanyi Chen, Chenyue Zhou, Yiwei Zhang, <span style="color: black; font-weight: bold; text-decoration: underline;">Fei Luo</span>, Junhao Wang, Andi Zhang
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<span style="color: black;">International Conference on Learning Representations (Tsinghua-A ICLR), 2026</span>
+<span style="color: black;">International Conference on Learning Representations (CCF-A, ICLR), 2026</span>
 </div>
 </div>
 
